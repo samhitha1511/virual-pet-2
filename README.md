@@ -1,2 +1,1 @@
-# virual-pet-2
-game
+# virtual-pet-2
